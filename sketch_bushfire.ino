@@ -99,6 +99,7 @@ void print_time() {
   
 }
 
+# Comment this function Out if not using CO sensor
 float get_co_reading() {
 
     // 5V for 1 minute
